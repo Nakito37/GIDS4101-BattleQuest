@@ -47,6 +47,7 @@ Sin embargo, el equilibrio de este poder ha sido perturbado por una fuerza oscur
 
 ### Personajes:
 **Personaje principal** 
+<br>
 ![principal_characters](/Images/chrPrincipals.png)
 
 Los personajes principales representan a la descendencia de cada una de las civilizaciones
@@ -54,6 +55,7 @@ que conocen la travesía de cada una de las torres y con el poder mágico sufici
 controlar los amuletos y reconstruir su poder.
 
 **Enemigos**
+<br>
 ![enemies_characters](/Images/chrEnemies.png)
 
 ### Reglas de Juego:
@@ -66,13 +68,14 @@ objetivos y poder concluir con la historia.
 ###  Pantallas de Juego:
 
 ###  Plan de creación de VideoJuego:
+![proyect_planner](/Images/proyPlanner.png)
 
 ## Código Fuente
 * VideoJuego
 
 ## Planificación
 
-![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
+![develop_plan](https://drive.google.com/file/d/1mXHOnmBgaLywcP0fGUqw0IjItMJoy287/view?usp=sharing)
 
 ## Autores
 Francisco Alvarez & Daniela Cruz
