@@ -1,4 +1,4 @@
-"# GIDS4101-BattleQuest" 
+# GIDS4101-BattleQuest
 
 
 # Creación de Video Juego
