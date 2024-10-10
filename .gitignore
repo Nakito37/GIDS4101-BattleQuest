@@ -9,6 +9,7 @@
 
 # Configuraciones de VS Code
 .vscode/
+.vsconfig
 
 # Archivos generados por Visual Studio/MonoDevelop
 *.csproj
