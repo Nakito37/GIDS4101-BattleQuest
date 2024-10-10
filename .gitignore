@@ -6,12 +6,11 @@
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
+UserSettings/
 
 # Configuraciones de VS Code
 .vscode/
-.vsconfig
-
-# Archivos generados por Visual Studio/MonoDevelop
+.vs/
 *.csproj
 *.unityproj
 *.sln
@@ -22,19 +21,29 @@
 *.pidb
 *.booproj
 *.svd
-
-# Archivos de control de versiones de Unity
-*.pidb.meta
 *.pdb
 *.mdb
 *.opendb
 *.VC.db
+*.ide/
+.idea/
+
+# Archivos Meta Data
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
 
 # Archivos para la cache de construcción
 /Builds/
 
+# Package directories
+/Packages/*/package.json
+
 # Archivos específicos de macOS
 .DS_Store
 
-# Otros archivos innecesarios
-.idea/
+# Crash Reports
+sysinfo.txt
+
+# Windows thumbnail
+Thumbs.db
