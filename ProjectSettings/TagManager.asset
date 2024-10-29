@@ -48,3 +48,6 @@ TagManager:
   - name: Background
     uniqueID: 1071130639
     locked: 0
+  - name: Escenario
+    uniqueID: 2769400215
+    locked: 0
