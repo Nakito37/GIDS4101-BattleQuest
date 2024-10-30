@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Picos
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-127.2312,"y":-217.437},"zoom":1.0,"elements":[{"argumentCount":0,"defaultValues":{"name":{"$content":"Muerte","$type":"System.String"},"target":null},"position":{"x":90.0,"y":-268.0},"guid":"801ec5f0-22f8-4a6a-83eb-40217c5c21af","$version":"A","$type":"Unity.VisualScripting.TriggerCustomEvent","$id":"9"},{"nest":{"source":"Macro","macro":0,"embed":null},"defaultValues":{"Tag":{"$content":"Player","$type":"System.String"}},"position":{"x":-369.0,"y":-272.0},"guid":"cf093b5e-969f-43d5-b196-71981e94df0f","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit","$id":"11"},{"sourceUnit":{"$ref":"11"},"sourceKey":"Objetivo","destinationUnit":{"$ref":"9"},"destinationKey":"enter","guid":"fd29e54e-6b9a-4ba4-aebd-e9c056c0c277","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"11"},"sourceKey":"Objeto","destinationUnit":{"$ref":"9"},"destinationKey":"target","guid":"c45ed40f-75c9-48a7-a2f2-cd6814c07ba1","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 1d2d708796b907d4c9d2e2d13ea8864a, type: 2}
