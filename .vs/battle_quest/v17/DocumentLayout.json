@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Nakito-01\\Desktop\\01_Universidad\\CUATRI 10\\Desarrollo de Videojuegos\\PROYECTO\\BATTLE-QUEST\\battle_quest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9EDD913A-640B-293C-717F-220144728C84}|Assembly-CSharp.csproj|c:\\users\\nakito-01\\desktop\\01_universidad\\cuatri 10\\desarrollo de videojuegos\\proyecto\\battle-quest\\battle_quest\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nakito-01\\Desktop\\01_Universidad\\CUATRI 10\\Desarrollo de Videojuegos\\PROYECTO\\BATTLE-QUEST\\battle_quest\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Core\\Reflection\\Optimization\\InstanceActionInvoker_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Core\\Reflection\\Optimization\\InstanceActionInvoker_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDD913A-640B-293C-717F-220144728C84}|Assembly-CSharp.csproj|C:\\Users\\Nakito-01\\Desktop\\01_Universidad\\CUATRI 10\\Desarrollo de Videojuegos\\PROYECTO\\BATTLE-QUEST\\battle_quest\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EDD913A-640B-293C-717F-220144728C84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "InstanceActionInvoker_2.cs",
+              "DocumentMoniker": "C:\\Users\\Nakito-01\\Desktop\\01_Universidad\\CUATRI 10\\Desarrollo de Videojuegos\\PROYECTO\\BATTLE-QUEST\\battle_quest\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Core\\Reflection\\Optimization\\InstanceActionInvoker_2.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Core\\Reflection\\Optimization\\InstanceActionInvoker_2.cs",
+              "ToolTip": "C:\\Users\\Nakito-01\\Desktop\\01_Universidad\\CUATRI 10\\Desarrollo de Videojuegos\\PROYECTO\\BATTLE-QUEST\\battle_quest\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Core\\Reflection\\Optimization\\InstanceActionInvoker_2.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Core\\Reflection\\Optimization\\InstanceActionInvoker_2.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T03:04:31.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\Nakito-01\\Desktop\\01_Universidad\\CUATRI 10\\Desarrollo de Videojuegos\\PROYECTO\\BATTLE-QUEST\\battle_quest\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -38,8 +55,7 @@
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwCEAAAB/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T18:18:41.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T18:18:41.223Z"
             }
           ]
         }
